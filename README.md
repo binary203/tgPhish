@@ -1,5 +1,5 @@
 # Фишинг-Бот (Educational Only)  
-[![LEGAL WARNING](https://img.shields.io/badge/🚨_DISCLAIMER_🚨-red?style=for-the-badge)](https://github.com/yourname/repo/blob/main/DISCLAIMER.md)  
+[![LEGAL WARNING](https://img.shields.io/badge/🚨_DISCLAIMER_🚨-red?style=for-the-badge)](https://github.com/Binary203/repo/blob/main/DISCLAIMER.md)  
 
 ⚠️ **ВАЖНО**: Этот код — учебный материал. [Читайте условия использования](DISCLAIMER.md).
 
