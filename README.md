@@ -1,7 +1,4 @@
-# auth-bot (Educational Only)  
-[![LEGAL WARNING](https://img.shields.io/badge/🚨_DISCLAIMER_🚨-CLICK_HERE-red?style=for-the-badge)](https://github.com/binary203/tgPhish/blob/main/DISCLAIMER.md)  
-
-⚠️ **ВАЖНО**: Этот код — учебный материал. [Читайте условия использования](DISCLAIMER.md).
+# auth-bot
 
 Зависимости и запуск:
 ```bash 
